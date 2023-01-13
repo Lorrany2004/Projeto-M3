@@ -1,0 +1,43 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Pankaj",
+      "salary": "10000"
+    },
+    {
+      "name": "David",
+      "salary": "5000",
+      "id": 2,
+      "id3": 2
+    }
+  ],
+
+  "employes": [
+    {
+      "i5d": 1,
+      "name": "Pankaj",
+      "salary": "10000"
+    },
+    {
+      "name": "David",
+      "salary": "5000",
+      "i5d": 2,
+      "id3": 2
+    }
+  ],
+
+  "emplloyes": [
+    {
+      "i5d": 1,
+      "name": "Pankaj",
+      "salary": "10000"
+    },
+    {
+      "name": "David",
+      "salary": "5000",
+      "i5d": 2,
+      "id3": 2
+    }
+  ]
+}
