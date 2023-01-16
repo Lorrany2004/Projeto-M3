@@ -1,43 +1,43 @@
 {
-  "employees": [
+  "Salgados": [
     {
-      "id": 1,
-      "name": "Pankaj",
-      "salary": "10000"
-    },
-    {
-      "name": "David",
-      "salary": "5000",
-      "id": 2,
-      "id3": 2
+      "id1": 4,
+      "Produto1": "Pipoca",
+      "imagem": "pipoca.jpg",
+      "Produto2": "Biscoito",
+      "imagem": "biscoitos.jpg",
+      "Produto3": "Batata frita",
+      "imagem": "batata frita.jpg",
+      "Produto4": "Pão de queijo",
+      "imagem": "paodequeijo.jpg"
     }
   ],
 
-  "employes": [
+  "Doces": [
     {
-      "i5d": 1,
-      "name": "Pankaj",
-      "salary": "10000"
-    },
-    {
-      "name": "David",
-      "salary": "5000",
-      "i5d": 2,
-      "id3": 2
+      "id2": 4,
+      "Produto1": "Chocolate",
+      "imagem": "chocolate.jpg",
+      "Produto2": "Jujuba",
+      "imagem": "jujuba.jpg",
+      "Produto3": "Amendoim",
+      "imagem": "amendoim.jpg",
+      "Produto4": "Chiclete",
+      "imagem": "chiclete.jpg"
     }
   ],
 
-  "emplloyes": [
+  "Bebidas": [
     {
-      "i5d": 1,
-      "name": "Pankaj",
-      "salary": "10000"
-    },
-    {
-      "name": "David",
-      "salary": "5000",
-      "i5d": 2,
-      "id3": 2
+      "id3": 4,
+      "Produto1": "Refrigerante",
+      "imagem": "refrigerantes.jpg",
+      "Produto2": "Suco",
+      "imagem": "sucos.jpg",
+      "Produto3": "Chá gelado",
+      "imagem": "chagelado.jpg",
+      "Produto4": "Água",
+      "imagem": "agua.jpg"
     }
   ]
 }
