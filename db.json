@@ -3,41 +3,94 @@
     {
       "id1": 4,
       "Produto1": "Pipoca",
-      "imagem": "pipoca.jpg",
+      "Tamanho1": "P",
+      "Tamanho2": "M",
+      "Tamanho3": "G"
+    },
+    {
+    "id1": 4,
       "Produto2": "Biscoito",
-      "imagem": "biscoitos.jpg",
+      "Marca1": "Elma chips",
+      "Marca2": "Piraquê",
+      "Marca3": "Vale D´ouro"
+    },
+    {
+    "id1": 4,
       "Produto3": "Batata frita",
-      "imagem": "batata frita.jpg",
+      "Tamanho1": "P",
+      "Tamanho2": "M",
+      "Tamanho3": "G"
+    },
+    {
+    "id1": 4,
       "Produto4": "Pão de queijo",
-      "imagem": "paodequeijo.jpg"
+      "Tamanho1": "P",
+      "Tamanho2": "M",
+      "Tamanho3": "G"
     }
   ],
 
   "Doces": [
     {
-      "id2": 4,
-      "Produto1": "Chocolate",
-      "imagem": "chocolate.jpg",
-      "Produto2": "Jujuba",
-      "imagem": "jujuba.jpg",
-      "Produto3": "Amendoim",
-      "imagem": "amendoim.jpg",
-      "Produto4": "Chiclete",
-      "imagem": "chiclete.jpg"
+      "id1": 4,
+      "Produto1": "Chocolates",
+      "Marca1": "Nestlé",
+      "Marca2": "Hershey´s",
+      "Marca3": "Milka"
+    },
+      
+    { 
+      "Produto2": "Gomas",
+      "Marca1": "Fine",
+      "Marca2": "Haribo",
+      "Marca3": "Dori"
+    },
+      
+    {
+      "Produto3": "Amendoins",
+      "Marca1": "Yoki",
+      "Marca2": "Dori",
+      "Marca3": "Guimarães"
+    },
+      
+    {
+      "Produto4": "Chicletes",
+      "Marca1": "Trident",
+      "Marca2": "Bubbaloo",
+      "Marca3": "Fine"
     }
   ],
 
   "Bebidas": [
+     {
+      "id1": 4,
+      "Produto1": "Refrigarantes",
+      "Marca1": "Coca-cola",
+      "Marca2": "Guaraná",
+      "Marca3": "Sprite"
+       
+    },
+      
+    { 
+      "Produto2": "Sucos",
+      "Marca1": "Del Valle",
+      "Marca2": "DaFruta",
+      "Marca3": "Maguary"
+    },
+      
     {
-      "id3": 4,
-      "Produto1": "Refrigerante",
-      "imagem": "refrigerantes.jpg",
-      "Produto2": "Suco",
-      "imagem": "sucos.jpg",
-      "Produto3": "Chá gelado",
-      "imagem": "chagelado.jpg",
-      "Produto4": "Água",
-      "imagem": "agua.jpg"
+      "Produto3": "Chás gelados",
+      "Marca1": "Leão",
+      "Marca2": "Lipton",
+      "Marca3": "Rei do Mate"
+    },
+      
+    {
+      "Produto4": "Outros",
+      "Tipo1": "Água",
+      "Tipo2": "Energético",
+      "Tipo3": "Achocolatado"
     }
   ]
 }
+    
