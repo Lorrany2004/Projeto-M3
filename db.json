@@ -1,95 +1,100 @@
 {
   "Salgados": [
     {
-      "id1": 4,
       "Produto1": "Pipoca",
       "Tamanho1": "P",
       "Tamanho2": "M",
-      "Tamanho3": "G"
+      "Tamanho3": "G",
+      "id1": 4
     },
     {
-    "id1": 4,
       "Produto2": "Biscoito",
       "Marca1": "Elma chips",
       "Marca2": "Piraquê",
-      "Marca3": "Vale D´ouro"
+      "Marca3": "Vale D´ouro",
+      "id1": 4
     },
     {
-    "id1": 4,
       "Produto3": "Batata frita",
       "Tamanho1": "P",
       "Tamanho2": "M",
-      "Tamanho3": "G"
+      "Tamanho3": "G",
+      "id1": 4
     },
     {
-    "id1": 4,
       "Produto4": "Pão de queijo",
       "Tamanho1": "P",
       "Tamanho2": "M",
-      "Tamanho3": "G"
+      "Tamanho3": "G",
+      "id1": 4
     }
   ],
 
   "Doces": [
     {
-      "id1": 4,
       "Produto1": "Chocolates",
       "Marca1": "Nestlé",
       "Marca2": "Hershey´s",
-      "Marca3": "Milka"
+      "Marca3": "Milka",
+      "id1": 4
     },
       
     { 
       "Produto2": "Gomas",
       "Marca1": "Fine",
       "Marca2": "Haribo",
-      "Marca3": "Dori"
+      "Marca3": "Dori",
+      "id1": 4
     },
       
     {
       "Produto3": "Amendoins",
       "Marca1": "Yoki",
       "Marca2": "Dori",
-      "Marca3": "Guimarães"
+      "Marca3": "Guimarães",
+      "id1": 4
     },
       
     {
       "Produto4": "Chicletes",
       "Marca1": "Trident",
       "Marca2": "Bubbaloo",
-      "Marca3": "Fine"
+      "Marca3": "Fine",
+      "id1": 4
     }
   ],
 
   "Bebidas": [
      {
-      "id1": 4,
       "Produto1": "Refrigarantes",
       "Marca1": "Coca-cola",
       "Marca2": "Guaraná",
-      "Marca3": "Sprite"
-       
+      "Marca3": "Sprite",
+       "id1": 4 
     },
       
     { 
       "Produto2": "Sucos",
       "Marca1": "Del Valle",
       "Marca2": "DaFruta",
-      "Marca3": "Maguary"
+      "Marca3": "Maguary",
+      "id1": 4
     },
       
     {
       "Produto3": "Chás gelados",
       "Marca1": "Leão",
       "Marca2": "Lipton",
-      "Marca3": "Rei do Mate"
+      "Marca3": "Rei do Mate",
+      "id1": 4
     },
       
     {
       "Produto4": "Outros",
       "Tipo1": "Água",
       "Tipo2": "Energético",
-      "Tipo3": "Achocolatado"
+      "Tipo3": "Achocolatado",
+      "id1": 4
     }
   ]
 }
