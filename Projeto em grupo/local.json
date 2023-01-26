@@ -1,0 +1,44 @@
+{
+    "localização": {
+        "estado": "São Paulo",
+        "municipio": "São Paulo",
+        "CEP": "01307-001",
+        "id": 1
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "municipio": "Rio de Janeiro",
+        "CEP": "23045-830" ,
+        "id": 2 
+    },
+    {
+        "estado": "Santa Catarina",
+        "municipio": "Laguna",
+        "CEP": "22793-100" ,
+        "id": 3
+    },
+    {
+        "estado": "Bahia",
+        "municipio": "Salvador",
+        "CEP": "41820-021" ,
+        "id": 4  
+    },
+    {
+        "estado": "Amazônia",
+        "municipio": "Manaus",
+        "CEP": "69050-010" ,
+        "id": 5   
+    },
+    {
+        "estado": "Minas Gerais",
+        "municipio": "Belo horizonte",
+        "CEP": "30260-070" ,
+        "id": 6  
+    },
+    {
+        "estado": "Rio Grande do Sul",
+        "municipio": "Gramado",
+        "CEP": "95670-000" ,
+        "id": 7  
+    }
+}
